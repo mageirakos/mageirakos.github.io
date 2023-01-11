@@ -1,11 +1,11 @@
 ---
 title: "Poster References"
 collection: teaching
-type: "industry-retreat"
-permalink: /teaching/2014-spring-teaching-1
-venue: "ETH"
+type: "ETH Industry Retreat"
+permalink: /teaching/2023-eth-industry-retreat-poster-references.md
+venue: "Switzerland"
 date: 2023-01-11
-location: "Switzerland"
+location: ""
 ---
 
 # References
