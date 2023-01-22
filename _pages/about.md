@@ -10,8 +10,7 @@ redirect_from:
 
 Hey there! 👋
 
-I am a first-year doctoral student at the Department of [Computer Science at ETH Zürich](https://inf.ethz.ch/), fortunate to be advised by [Theo Rekatsinas](https://thodrek.github.io/) and [Gustavo Alonso](https://people.inf.ethz.ch/alonso/) and to be a member of the [Systems Group](https://systems.ethz.ch/).   
-I obtained my MSc degrpee in Electrical and Computer Engineering from the [University of Patras](https://www.upatras.gr/en/).
+I am a first-year doctoral student at the Department of [Computer Science at ETH Zürich](https://inf.ethz.ch/), fortunate to be advised by [Theo Rekatsinas](https://thodrek.github.io/) and [Gustavo Alonso](https://people.inf.ethz.ch/alonso/) and to be a member of the [Systems Group](https://systems.ethz.ch/). I obtained my MSc degrpee in Electrical and Computer Engineering from the [University of Patras](https://www.upatras.gr/en/).
 
 I am broadly interested in database and machine learning system research. More specifically, how we can build data-centric systems that accelerate machine learning pipelines, utilize emerging hardware/memory trends, and automatically adapt to workload and hardware changes. 
 
