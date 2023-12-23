@@ -10,7 +10,7 @@ redirect_from:
 
 Hey there! 👋
 
-I am a doctoral student at the Department of [Computer Science at ETH Zürich](https://inf.ethz.ch/), fortunate to be advised by [Gustavo Alonso](https://people.inf.ethz.ch/alonso/), [Ana Klimovic](https://anakli.inf.ethz.ch/) and to be a member of the [Systems Group](https://systems.ethz.ch/). I obtained my MSc degree in Electrical and Computer Engineering from the [University of Patras](https://www.upatras.gr/en/).
+I am a doctoral student at the Department of [Computer Science at ETH Zürich](https://inf.ethz.ch/), fortunate to be advised by [Gustavo Alonso](https://people.inf.ethz.ch/alonso/), [Ana Klimovic](https://anakli.inf.ethz.ch/) as a member of the [Systems Group](https://systems.ethz.ch/). I obtained my MSc degree in Electrical and Computer Engineering from the [University of Patras](https://www.upatras.gr/en/).
 
 Currently, I am exploring the area of vector search. My interests lie in database and machine learning systems research, with a focus on accelerating machine learning pipelines and building systems that harness emerging hardware/memory trends and adapt to workload changes.
 
